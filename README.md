@@ -41,7 +41,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | :--- | :--- | :--- | :--- |
 | **Asciente Hub** | `Personal Project`, `Solo` | `AWS Lambda`, `R2`, `TiDB` | **Full-Stack Developer.** Architecting a cloud-native Game Launcher with distributed SQL and observability. |
 | **Service Ticket System** | `Personal Project`, `Solo`  | `Node.js`, `JWT`, `TiDB` | **Full-Stack Developer.** Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
-| **H100 Ecolodge** | `Client Project` `Team`  | `Spring Boot`, `MySQL`, `Aiven` | **Full-Stack Developer.** Delivered a commercial booking engine under zero-cost infrastructure constraints for a local business. |
+| **H100 Ecolodge** | `Client Project` `Team`  | `Spring Boot`, `MySQL`, `Aiven` | **Full-Stack Developer.** Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
 | **NHC Internal Gym** | `Client Project`, `Team` | `C# (.NET)`, `SQL Server` | **Full-Stack Developer.** Engineered a custom desktop management solution focusing on high-performance local data handling. |
 | **To-Do list App** | `Personal Project`, `Solo`  | `React Native`, `EAS`, `TiDB` | **Full-Stack Developer.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
 
