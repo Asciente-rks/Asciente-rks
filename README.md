@@ -51,12 +51,12 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 I adhere to the **ISO/IEC 25010** quality model, focusing on functional suitability, reliability, and maintainability. My approach to engineering is centered on three core pillars:
 
 * **Cloud-Native & Serverless First:**
-I prioritize `AWS Lambda` and `TiDB Serverless` to achieve high horizontal scalability and maximum cost-efficiency. By utilizing a pay-as-you-go model, I ensure production-grade infrastructure remains lean without sacrificing performance.
+* I prioritize `AWS Lambda` and `TiDB Serverless` to achieve high horizontal scalability and maximum cost-efficiency. By utilizing a pay-as-you-go model, I ensure production-grade infrastructure remains lean without sacrificing performance.
   
 * **Resiliency through Decoupling:**
-I utilize `Amazon SQS` and `Amazon SNS` to build event-driven, asynchronous architectures. This decoupling ensures that system components remain resilient and independent, preventing cascading failures under heavy load.
+* I utilize `Amazon SQS` and `Amazon SNS` to build event-driven, asynchronous architectures. This decoupling ensures that system components remain resilient and independent, preventing cascading failures under heavy load.
   
 * **Operational Observability:**
-A system is only as good as its logs. I leverage `Amazon CloudWatch` to maintain deep visibility into system health, allowing for proactive debugging and performance tuning before issues reach the end-user.
+* A system is only as good as its logs. I leverage `Amazon CloudWatch` to maintain deep visibility into system health, allowing for proactive debugging and performance tuning before issues reach the end-user.
 
 ---
