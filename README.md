@@ -20,7 +20,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`
 
 **🗄️ Database & Storage**
-> `TiDB (Serverless)` • `MySQL` • `MongoDB` • `Cloudflare R2`
+> `TiDB (Serverless)` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
 
 **🔐 Security & Auth**
 > `JWT` • `Bcrypt` • `RBAC` • `Spring Security`
