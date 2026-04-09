@@ -10,15 +10,16 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
 | **Backend & Logic** | Node.js, Express, Sequelize, ASP.NET Core, Spring Boot |
-| **Languages** | TypeScript, JavaScript, **C# (.NET)**, Java, Python |
-| **Frontend & Mobile** | React, React Native (Expo) |
+| **Languages** | TypeScript, JavaScript, C# (.NET), Java, Python |
+| **Frontend & Mobile** | React, React Native (Expo, Tailwind |
 | **AWS Ecosystem** | Lambda, DynamoDB, S3, SQS, SNS, CloudWatch |
 | **Database & Storage** | TiDB (Serverless), MySQL, MongoDB, Cloudflare R2 |
 | **Security & Auth** | JWT, Bcrypt, Role-Based Access Control (RBAC), Spring Security |
-| **Deployment & Ops** | EAS, Render, Vercel, Virtualization (Ubuntu, Fedora) |
-| **QA & Standards** | ISO/IEC 25010 Standard, Postman (API Testing), Git/GitHub |
+| **Deployment & Ops** | EAS, Render, Vercel, AWS |
+| **QA & Standards** | ISO/IEC 25010 Standard, Postman (API Testing), Manual QA Testing |
 | **Architecture & Docs** | C4 Model Architecture, System Design, Technical Documentation |
 | **UI/UX** | Figma |
+| **IDE** | VS Code, Visual Studio, Cursor, Eclipse |
 
 ---
 
