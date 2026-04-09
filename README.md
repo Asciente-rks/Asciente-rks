@@ -1,35 +1,37 @@
 # 👋 Hi, I’m Ralph Kenneth F. Sonio
 
-### 🚀 Backend Developer Intern | TypeScript Enthusiast | System Architecture
-I specialize in building scalable backend systems, designing robust APIs, and optimizing database performance. Currently focusing on transitioning complex logic into type-safe, maintainable codebases.
+### ☁️ Cloud-Native Backend Developer | QA Engineer
+I architect scalable, type-safe systems and enforce high-availability standards through rigorous Quality Assurance. My focus is on cloud-native infrastructure, event-driven architecture, and production-grade stability.
 
 ---
 
-### 🧠 Technical Toolbox
+### 🧠 Technical Expertise
 
-- **Languages:** TypeScript (Primary), JavaScript, Node.js
-- **Backend:** Express.js, Sequelize ORM, JWT Authentication
-- **Databases:** TiDB, MySQL, PostgreSQL
-- **Cloud & DevOps:** Cloudflare R2, AWS (Lambda/S3), Docker
-- **Architecture:** RESTful APIs, System Design, Relational Database Design
-
----
-
-### 🛠️ Current Focus & Projects
-
-- **Asciente Hub:** Developing a high-performance backend system focused on secure data management and scalable architecture.
-- **Game Launcher:** Building a distribution platform utilizing **Cloudflare R2** for optimized asset delivery.
-- **Service Ticket System:** Architecting a full-stack solution with role-based access control (RBAC).
-
----
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asciente-rks&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asciente-rks&layout=compact&theme=dark)
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & Logic** | Node.js, Express, Sequelize, ASP.NET Core, Spring Boot |
+| **Languages** | TypeScript, JavaScript, **C# (.NET)**, Java, Python |
+| **Frontend & Mobile** | React, React Native (Expo) |
+| **AWS Ecosystem** | Lambda, DynamoDB, S3, SQS, SNS, CloudWatch |
+| **Database & Storage** | TiDB (Serverless), MySQL, MongoDB, Cloudflare R2 |
+| **Security & Auth** | JWT, Bcrypt, Role-Based Access Control (RBAC), Spring Security |
+| **Deployment & Ops** | EAS, Render, Vercel, Virtualization (Ubuntu, Fedora) |
+| **QA & Standards** | ISO/IEC 25010 Standard, Postman (API Testing), Git/GitHub |
+| **Architecture & Docs** | C4 Model Architecture, System Design, Technical Documentation |
+| **UI/UX** | Figma |
 
 ---
 
-### 📫 Let's Connect
-- 📧 **Email:** [sonioralphkenneth@gmail.com]
-- 💼 **LinkedIn:** [Insert your Link]
-- 📍 Based in **Baguio City, Philippines** 🌲
+### 🛠️ Key Active Projects
+
+* **Asciente Hub:** Leading backend development with a focus on enterprise system architecture and secure, event-driven API design.
+* **Game Launcher:** A cloud-native distribution platform leveraging **AWS Lambda**, **S3**, and **Cloudflare R2** for optimized global asset delivery.
+* **Service Ticket System:** A secure full-stack solution featuring **JWT/Bcrypt** authentication and **CloudWatch** monitoring for system reliability.
+* **Equipment Inventory System:** An enterprise-focused management tool built with **C#** and **ASP.NET**, emphasizing data integrity and CRUD optimization.
+
+---
+
+### 🛡️ Engineering & QA Philosophy
+I adhere to the **ISO/IEC 25010** quality model, focusing on functional suitability, reliability, and maintainability. By utilizing **SQS/SNS** for decoupling and **CloudWatch** for observability, I ensure that the systems I build are not just functional, but resilient and observable under load.
+
+---
