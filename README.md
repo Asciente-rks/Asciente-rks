@@ -43,7 +43,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | **Service Ticket System** | `Personal Project` | `Solo` |`Deployed` | `TypeScript` | `Node.js`, `JWT`, `TiDB`, `React`, `Tailwind`, `Render`, `Vercel` | `Full-Stack Developer` Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
 | **To-Do list App** | `Personal Project` | `Solo` |`Deployed` | `TypeScript` | `React Native`, `EAS`, `TiDB`, `Render` | `Full-Stack Developer` Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
 | **H100 Ecolodge** | `Client Project` | `Team` | `Deployed` | `Java` | `Spring Boot`, `MySQL`, `Aiven` | `Full-Stack Developer` Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
-| **NHC Internal Gym** | `Client Project` | `Team` | `Deployed` | `C#` | `.NET`, `SQL Server` | `Full-Stack Developer` Engineered a custom desktop management solution focusing on high-performance local data handling. |
+| **NHC Internal Gym** | `Client Project` | `Team` | `Deployed` | `C#` | `.NET Windows Forms`, `SQL Server` | `Full-Stack Developer` Engineered a custom desktop management solution focusing on high-performance local data handling. |
 | **The Last Light** | `School Project` | `Solo` |`Built, .exe file ready` | `C#` | `Unity`, `Blender`, `VS Code` | `Full-Stack Developer` A Tutorial Based 3D Horror Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay |
 
 ### 🛡️ Engineering & QA Philosophy
