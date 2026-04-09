@@ -27,11 +27,11 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 
 | Project | Tech Stack | Overview & Achievement |
 | :--- | :--- | :--- |
-| **Asciente Hub** | `AWS Lambda`, `R2`, `TiDB`, `CloudWatch` | **Lead Developer.** Architecting a cloud-native Game Launcher with distributed SQL. Focus on observability and C4 Model documentation. |
-| **Service Ticket System** | `Node.js`, `JWT/Bcrypt`, `TiDB`, `Render` | **Full-Stack Engineer.** Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade authentication logic. |
-| **H100 Ecolodge** | `Spring Boot`, `JPA`, `MySQL`, `Aiven` | **Capstone Lead.** Delivered a commercial booking engine under **zero-cost infrastructure constraints** for a real-world client. |
-| **NHC Internal Gym** | `C# (.NET)`, `SQL Server`, `Visual Studio` | **Desktop Developer.** Engineered a custom management solution for a local business, focusing on high-performance local data handling. |
-| **To-Do Ecosystem** | `React Native`, `EAS`, `TypeScript`, `TiDB` | **Mobile/Backend.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Application Services (EAS). |
+| **Asciente Hub** | `AWS Lambda`, `R2`, `TiDB`, `CloudWatch` | **Solo Full Stack Developer.** Architecting a cloud-native Game Launcher with distributed SQL. |
+| **Service Ticket System** | `Node.js`, `JWT/Bcrypt`, `TiDB`, `Render` | **Solo Full-Stack Developer.** Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade authentication logic. |
+| **H100 Ecolodge** | `Spring Boot`, `JPA`, `MySQL`, `Aiven` | **Full-Stack Developer.** Delivered a commercial booking engine under **zero-cost infrastructure constraints** for a real-world client. |
+| **NHC Internal Gym** | `C# (.NET)`, `SQL Server`, `Visual Studio` | **Solo Full-Stack Developer.** Engineered a custom management solution for a local business, focusing on high-performance local data handling. |
+| **To-Do list Application** | `React Native`, `EAS`, `TypeScript`, `TiDB` | **Solo Full-Stack Developer.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Application Services (EAS). |
 ---
 
 ### 🛡️ Engineering & QA Philosophy
