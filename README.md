@@ -37,14 +37,14 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 
 ### 🛠️ Key Active Projects
 
-| Project | Type | Tech Stack | Overview & Achievement |
-| :--- | :--- | :--- | :--- |
-| **Asciente Hub** | `Personal Project`, `Solo` | `AWS Lambda`, `R2`, `TiDB` | `Full-Stack Developer` Architecting a cloud-native Game Launcher with distributed SQL and observability. |
-| **Service Ticket System** | `Personal Project`, `Solo`  | `Node.js`, `JWT`, `TiDB` | `Full-Stack Developer` Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
-| **H100 Ecolodge** | `Client Project` `Team`  | `Spring Boot`, `MySQL`, `Aiven` | `Full-Stack Developer` Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
-| **NHC Internal Gym** | `Client Project`, `Team` | `C# (.NET)`, `SQL Server` | `Full-Stack Developer` Engineered a custom desktop management solution focusing on high-performance local data handling. |
-| **To-Do list App** | `Personal Project`, `Solo`  | `React Native`, `EAS`, `TiDB` | `Full-Stack Developer` Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
-| **The Last Light** | `School Project`, `Solo`  | `Unity`, `Blender`, `VS Code` | `Full-Stack Developer` A Tutorial Based 3D Horro Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay  |
+| Project | Type | Status | Tech Stack | Overview & Achievement |
+| :--- | :--- | :--- | :--- | :--- |
+| **Asciente Hub** | `Personal Project`, `Solo` | `Under Development` |`AWS Lambda`, `Cloudflare R2`, `TiDB` | `Full-Stack Developer` Architecting a cloud-native Game Launcher with distributed SQL and observability. |
+| **Service Ticket System** | `Personal Project`, `Solo`  | `Deployed` |`Node.js`, `JWT`, `TiDB`, `React`, `Tailwind`, `Render`, `Vercel` | `Full-Stack Developer` Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
+| **H100 Ecolodge** | `Client Project` `Team`  | `Deployed` | `Spring Boot`, `MySQL`, `Aiven` | `Full-Stack Developer` Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
+| **NHC Internal Gym** | `Client Project`, `Team` | `Deployed` |`C# (.NET)`, `SQL Server` | `Full-Stack Developer` Engineered a custom desktop management solution focusing on high-performance local data handling. |
+| **To-Do list App** | `Personal Project`, `Solo`  | `Deployed` | `React Native`, `EAS`, `TiDB`, `Render` | `Full-Stack Developer` Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
+| **The Last Light** | `School Project`, `Solo`  | `Built and Ready for Playing` |`Unity`, `Blender`, `VS Code` | `Full-Stack Developer` A Tutorial Based 3D Horro Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay  |
 
 ### 🛡️ Engineering & QA Philosophy
 
