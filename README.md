@@ -32,7 +32,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 ![ISO/IEC 25010](https://img.shields.io/badge/ISO/IEC_25010-blue?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Manual QA](https://img.shields.io/badge/Manual_QA-blue?style=for-the-badge)
 
 #### 📐 Architecture & IDE
-![C4 Model](https://img.shields.io/badge/C4_Model-darkblue?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![C4 Model](https://img.shields.io/badge/C4_Model-darkblue?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ---
 
