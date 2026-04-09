@@ -44,6 +44,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | **H100 Ecolodge** | `Client Project` `Team`  | `Spring Boot`, `MySQL`, `Aiven` | **Full-Stack Developer.** Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
 | **NHC Internal Gym** | `Client Project`, `Team` | `C# (.NET)`, `SQL Server` | **Full-Stack Developer.** Engineered a custom desktop management solution focusing on high-performance local data handling. |
 | **To-Do list App** | `Personal Project`, `Solo`  | `React Native`, `EAS`, `TiDB` | **Full-Stack Developer.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
+| **The Last Light** | `School Project`, `Solo`  | `Unity`, `Blender`, `VS Code` | **Full-Stack Developer.** A tutorial Based horror game from User1 Productions, Extended the game for a more robust and exciting gameplay  |
 
 ### 🛡️ Engineering & QA Philosophy
 
