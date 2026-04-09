@@ -9,9 +9,9 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend & Logic** | Node.js, Express, Sequelize, ASP.NET Core, Spring Boot |
+| **Backend & Logic** | Node.js, Express, Sequelize, ASP.NET Core, Spring Boot, Spring Data JPA |
 | **Languages** | TypeScript, JavaScript, C# (.NET), Java, Python |
-| **Frontend & Mobile** | React, React Native (Expo, Tailwind |
+| **Frontend & Mobile** | React, React Native (Expo), Tailwind |
 | **AWS Ecosystem** | Lambda, DynamoDB, S3, SQS, SNS, CloudWatch |
 | **Database & Storage** | TiDB (Serverless), MySQL, MongoDB, Cloudflare R2 |
 | **Security & Auth** | JWT, Bcrypt, Role-Based Access Control (RBAC), Spring Security |
@@ -25,11 +25,13 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 
 ### 🛠️ Key Active Projects
 
-* **Asciente Hub:** Leading backend development with a focus on enterprise system architecture and secure, event-driven API design.
-* **Game Launcher:** A cloud-native distribution platform leveraging **AWS Lambda**, **S3**, and **Cloudflare R2** for optimized global asset delivery.
-* **Service Ticket System:** A secure full-stack solution featuring **JWT/Bcrypt** authentication and **CloudWatch** monitoring for system reliability.
-* **Equipment Inventory System:** An enterprise-focused management tool built with **C#** and **ASP.NET**, emphasizing data integrity and CRUD optimization.
-
+| Project | Tech Stack | Overview & Achievement |
+| :--- | :--- | :--- |
+| **Asciente Hub** | `AWS Lambda`, `R2`, `TiDB`, `CloudWatch` | **Lead Developer.** Architecting a cloud-native Game Launcher with distributed SQL. Focus on observability and C4 Model documentation. |
+| **Service Ticket System** | `Node.js`, `JWT/Bcrypt`, `TiDB`, `Render` | **Full-Stack Engineer.** Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade authentication logic. |
+| **H100 Ecolodge** | `Spring Boot`, `JPA`, `MySQL`, `Aiven` | **Capstone Lead.** Delivered a commercial booking engine under **zero-cost infrastructure constraints** for a real-world client. |
+| **NHC Internal Gym** | `C# (.NET)`, `SQL Server`, `Visual Studio` | **Desktop Developer.** Engineered a custom management solution for a local business, focusing on high-performance local data handling. |
+| **To-Do Ecosystem** | `React Native`, `EAS`, `TypeScript`, `TiDB` | **Mobile/Backend.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Application Services (EAS). |
 ---
 
 ### 🛡️ Engineering & QA Philosophy
