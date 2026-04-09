@@ -37,14 +37,13 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 
 ### 🛠️ Key Active Projects
 
-| Project | Tech Stack | Overview & Achievement |
-| :--- | :--- | :--- |
-| **Asciente Hub** | `AWS Lambda`, `R2`, `TiDB`, `CloudWatch` | **Solo Full Stack Developer.** Architecting a cloud-native Game Launcher with distributed SQL. |
-| **Service Ticket System** | `Node.js`, `JWT/Bcrypt`, `TiDB`, `Render` | **Solo Full-Stack Developer.** Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade authentication logic. |
-| **H100 Ecolodge (Client Project)** | `Spring Boot`, `JPA`, `MySQL`, `Aiven` | **Full-Stack Developer.** Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
-| **NHC Internal Gym Management (Client Project)** | `C# (.NET)`, `SQL Server`, `Visual Studio` | **Solo Full-Stack Developer.** Engineered a custom management solution for a local business, focusing on high-performance local data handling. |
-| **To-Do list Application** | `React Native`, `EAS`, `TypeScript`, `TiDB` | **Solo Full-Stack Developer.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Application Services (EAS). |
----
+| Project | Type | Tech Stack | Overview & Achievement |
+| :--- | :--- | :--- | :--- |
+| **Asciente Hub** | `Personal / R&D` | `AWS Lambda`, `R2`, `TiDB` | **Full-Stack Developer.** Architecting a cloud-native Game Launcher with distributed SQL and observability. |
+| **Service Ticket System** | `Personal / R&D` | `Node.js`, `JWT`, `TiDB` | **Full-Stack Developer.** Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
+| **H100 Ecolodge** | `Client Project` | `Spring Boot`, `MySQL`, `Aiven` | **Full-Stack Developer.** Delivered a commercial booking engine under zero-cost infrastructure constraints for a local business. |
+| **NHC Internal Gym** | `Client Project` | `C# (.NET)`, `SQL Server` | **Full-Stack Developer.** Engineered a custom desktop management solution focusing on high-performance local data handling. |
+| **To-Do list App** | `Personal / R&D` | `React Native`, `EAS`, `TiDB` | **Full-Stack Developer.** Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
 
 ### 🛡️ Engineering & QA Philosophy
 
