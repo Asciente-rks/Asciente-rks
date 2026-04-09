@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I’m Ralph Kenneth F. Sonio
 
-<!--
-**Asciente-rks/Asciente-rks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Backend Developer Intern | TypeScript Enthusiast | System Architecture
+I specialize in building scalable backend systems, designing robust APIs, and optimizing database performance. Currently focusing on transitioning complex logic into type-safe, maintainable codebases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Technical Toolbox
+
+- **Languages:** TypeScript (Primary), JavaScript, Node.js
+- **Backend:** Express.js, Sequelize ORM, JWT Authentication
+- **Databases:** TiDB, MySQL, PostgreSQL
+- **Cloud & DevOps:** Cloudflare R2, AWS (Lambda/S3), Docker
+- **Architecture:** RESTful APIs, System Design, Relational Database Design
+
+---
+
+### 🛠️ Current Focus & Projects
+
+- **Asciente Hub:** Developing a high-performance backend system focused on secure data management and scalable architecture.
+- **Game Launcher:** Building a distribution platform utilizing **Cloudflare R2** for optimized asset delivery.
+- **Service Ticket System:** Architecting a full-stack solution with role-based access control (RBAC).
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asciente-rks&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asciente-rks&layout=compact&theme=dark)
+
+---
+
+### 📫 Let's Connect
+- 📧 **Email:** [sonioralphkenneth@gmail.com]
+- 💼 **LinkedIn:** [Insert your Link]
+- 📍 Based in **Baguio City, Philippines** 🌲
