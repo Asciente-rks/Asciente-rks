@@ -8,10 +8,10 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 ### 🧠 Technical Expertise
 
 **🚀 Backend & Logic**
-> `Node.js` • `Express` • `Sequelize` • `ASP.NET Core` • `Spring Boot` • `Spring Data JPA`
+> `Node.js` • `Express` • `Sequelize` • `ASP.NET Core` • `Spring Boot` • `Spring Data JPA` • `Tauri`
 
 **💻 Languages**
-> `TypeScript` • `JavaScript` • `C# (.NET)` • `Java` • `Python`
+> `TypeScript` • `JavaScript` • `C# (.NET)` • `Java` • `Python` • `Rust`
 
 **📱 Frontend & Mobile**
 > `React` • `React Native (Expo)` • `Tailwind CSS`
