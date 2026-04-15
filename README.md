@@ -51,10 +51,10 @@ My approach to engineering is centered on the following:
 
 * **Cloud-Native & Serverless First:**
   I prioritize `AWS Lambda` and `TiDB Serverless` to achieve high horizontal scalability and maximum cost-efficiency. By utilizing a pay-as-you-go model, I ensure production-grade infrastructure remains lean without sacrificing performance, Use Less, Pay Less.
-  
-* **Operational Observability:**
-  A system is only as good as its logs. I leverage `Amazon CloudWatch` to maintain deep visibility into system health, allowing for proactive debugging and performance tuning before issues reach the end-user.
 
 * **Zero-rated Personal Projects:**
   All of the personal projects I developed and deployed as well as future projects must be zero cost
+  
+* **Operational Observability:**
+  A system is only as good as its logs. I leverage `Amazon CloudWatch` to maintain deep visibility into system health, allowing for proactive debugging and performance tuning before issues reach the end-user.
 ---
