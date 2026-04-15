@@ -1,41 +1,41 @@
-# 👋 Hi, I’m Ralph Kenneth F. Sonio
+# Hi, I’m Ralph Kenneth F. Sonio
 
-### ☁️ Cloud-Native Backend Developer | QA Tester
+### Cloud-Native Backend Developer | QA Tester
 I architect scalable, type-safe systems and enforce high-availability standards through rigorous Quality Assurance. My focus is on cloud-native infrastructure, event-driven architecture, and production-grade stability.
 
 ---
 
-### 🧠 Technical Expertise
+### Technical Expertise
 
-**🚀 Backend & Logic**
+**Backend & Logic**
 > `Node.js` • `Express` • `Sequelize` • `ASP.NET Core` • `Spring Boot` • `Spring Data JPA` • `Tauri`
 
-**💻 Languages**
+**Languages**
 > `TypeScript` • `JavaScript` • `C# (.NET)` • `Java` • `Python` • `Rust`
 
-**📱 Frontend & Mobile**
+**Frontend & Mobile**
 > `React` • `React Native (Expo)` • `Tailwind CSS`
 
-**☁️ AWS Ecosystem**
+**AWS Ecosystem**
 > `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`
 
-**🗄️ Database & Storage**
+**Database & Storage**
 > `TiDB (Serverless)` • `Aiven` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
 
-**🔐 Security & Auth**
+**Security & Auth**
 > `JWT` • `Bcrypt` • `RBAC` • `Spring Security`
 
-**🚀 Deployment & Ops**
+**Deployment & Ops**
 > `EAS` • `Render` • `Vercel` • `AWS`
 
-**🛡️ QA & Architecture**
+**QA & Architecture**
 > `ISO/IEC 25010` • `Postman` • `Manual Testing` • `C4 Model`
 
-**🛠️ Tooling & IDEs**
+**Tooling & IDEs**
 > `Figma` • `VS Code` • `Visual Studio` • `Cursor` • `Eclipse`
 ---
 
-### 🛠️ Key Active Projects
+### Key Active Projects
 
 | Project | Type | Collaboration | Status | Language | Tech Stack | Overview & Achievement |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -46,9 +46,8 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | **NHC Internal Gym** | Client Project | Team | Deployed | C# | .NET Windows Forms, SQL Server | Full-Stack Developer Engineered a custom desktop management solution focusing on high-performance local data handling. |
 | **The Last Light** | School Project | Solo | Built, .exe file ready | C# | Unity, Blender, VS Code | Full-Stack Developer A Tutorial Based 3D Horror Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay |
 
-### 🛡️ Engineering & QA Philosophy
-
-I adhere to the **ISO/IEC 25010** quality model, focusing on functional suitability, reliability, and maintainability. My approach to engineering is centered on three core pillars:
+### Engineering & QA Philosophy
+My approach to engineering is centered the following:
 
 * **Cloud-Native & Serverless First:**
   I prioritize `AWS Lambda` and `TiDB Serverless` to achieve high horizontal scalability and maximum cost-efficiency. By utilizing a pay-as-you-go model, I ensure production-grade infrastructure remains lean without sacrificing performance.
@@ -59,4 +58,6 @@ I adhere to the **ISO/IEC 25010** quality model, focusing on functional suitabil
 * **Operational Observability:**
   A system is only as good as its logs. I leverage `Amazon CloudWatch` to maintain deep visibility into system health, allowing for proactive debugging and performance tuning before issues reach the end-user.
 
+* **Zero-rated Personal Projects:**
+  All of the personal projects I developed and deployed as well as future projects must be zero cost
 ---
