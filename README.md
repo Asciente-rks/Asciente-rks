@@ -23,7 +23,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `TiDB (Serverless)` • `Aiven` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
 
 **Security & Auth**
-> `JWT` • `Bcrypt` • `RBAC` • `Spring Security`
+> `JWT` • `Bcrypt` • `RBAC` • `Spring Security` • `OAuth`
 
 **Deployment & Ops**
 > `EAS` • `Render` • `Vercel` • `AWS`
