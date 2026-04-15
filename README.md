@@ -46,14 +46,11 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | **NHC Internal Gym** | Client Project | Team | Deployed | C# | .NET Windows Forms, SQL Server | Full-Stack Developer Engineered a custom desktop management solution focusing on high-performance local data handling. |
 | **The Last Light** | School Project | Solo | Built, .exe file ready | C# | Unity, Blender, VS Code | Full-Stack Developer A Tutorial Based 3D Horror Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay |
 
-### Engineering & QA Philosophy
-My approach to engineering is centered the following:
+### Engineering
+My approach to engineering is centered on the following:
 
 * **Cloud-Native & Serverless First:**
-  I prioritize `AWS Lambda` and `TiDB Serverless` to achieve high horizontal scalability and maximum cost-efficiency. By utilizing a pay-as-you-go model, I ensure production-grade infrastructure remains lean without sacrificing performance.
-  
-* **Resiliency through Decoupling:**
-  I utilize `Amazon SQS` and `Amazon SNS` to build event-driven, asynchronous architectures. This decoupling ensures that system components remain resilient and independent, preventing cascading failures under heavy load.
+  I prioritize `AWS Lambda` and `TiDB Serverless` to achieve high horizontal scalability and maximum cost-efficiency. By utilizing a pay-as-you-go model, I ensure production-grade infrastructure remains lean without sacrificing performance, Use Less, Pay Less.
   
 * **Operational Observability:**
   A system is only as good as its logs. I leverage `Amazon CloudWatch` to maintain deep visibility into system health, allowing for proactive debugging and performance tuning before issues reach the end-user.
