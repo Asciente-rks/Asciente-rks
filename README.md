@@ -14,7 +14,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `TypeScript` • `JavaScript` • `C# (.NET)` • `Java` • `Python` • `Rust`
 
 **Frontend & Mobile**
-> `React` • `React Native (Expo)` • `Tailwind CSS`
+> `React` • `React Native (Expo)` • `Tailwind CSS` • `Astro`
 
 **AWS Ecosystem**
 > `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`
