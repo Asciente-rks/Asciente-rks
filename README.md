@@ -17,10 +17,10 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `React` • `React Native (Expo)` • `Tailwind CSS` • `Astro`
 
 **AWS Ecosystem**
-> `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`
+> `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`  • `CloudFormation`
 
 **Database & Storage**
-> `TiDB (Serverless)` • `Aiven` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
+> `TiDB (Serverless)` • `DyanmoDB` • `Aiven` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
 
 **Security & Auth**
 > `JWT` • `Bcrypt` • `RBAC` • `Spring Security` • `OAuth`
