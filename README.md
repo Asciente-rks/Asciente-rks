@@ -8,7 +8,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 ### Technical Expertise
 
 **Backend & Logic**
-> `Node.js` • `Express` • `Sequelize` • `ASP.NET Core` • `Spring Boot` • `Spring Data JPA` • `Tauri` • `Serverless Framework`
+> `Node.js` • `Express` • `Sequelize` • `ASP.NET Core` • `Spring Boot` • `Spring Data JPA` • `Tauri` • `Serverless Framework` • `Fastify`
 
 **Languages**
 > `TypeScript` • `JavaScript` • `C# (.NET)` • `Java` • `Python` • `Rust`
