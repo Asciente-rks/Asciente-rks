@@ -40,12 +40,12 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 | Project | Type | Collaboration | Status | Language | Tech Stack | Overview & Achievement |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **System Pulse** | Personal Project | Solo | Under Development | TypeScript | Fastify, AWS SDK, Serverless Framework, CloudFormation, DynamoDB, Lambda, SQS, SNS, S3, ReactJS, Vite, TailwindCSS | Developing an automation tester to check if the service is up by trigerring /health endpoints of the systems |
-| **Asciente Hub** | Personal Project | Solo | Frontend Deployment: Built using Tauri and deployed on github realeases, Backend Deployment: AWS | TypeScript | AWS Lambda, Cloudflare R2, TiDB, ReactJS, TailwindCSS, Tauri | Architecting a cloud-native Game Launcher with distributed SQL and observability. |
-| **Service Ticket System** | Personal Project | Solo | Frontend Deployment: Vercel, Backend Deployment: Render | TypeScript | Node.js, JWT, TiDB, React, Tailwind, Render, Vercel | Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
-| **To-Do list App** | Personal Project | Solo |Deployed | TypeScript | React Native, EAS, TiDB, Render | Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
-| **H100 Ecolodge** | Client Project | Team | Deployed | Java | Spring Boot, MySQL, Aiven, HTML, CSS, JavaScript, Spring Data JPA | Full-Stack Developer - Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
-| **NHC Internal Gym** | Client Project | Team | Deployed | C# | .NET Windows Forms, SQL Server | Full-Stack Developer - Engineered a custom desktop management solution focusing on high-performance local data handling. |
-| **The Last Light** | School Project | Solo | Built, .exe file ready | C# | Unity, Blender, VS Code | A Tutorial Based 3D Horror Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay |
+| **Asciente Hub** | Personal Project | Solo | Frontend is built using Tauri and deployed on github realeases, Backend is deployed on AWS | TypeScript | AWS Lambda, Cloudflare R2, TiDB, ReactJS, TailwindCSS, Tauri | Architecting a cloud-native Game Launcher with distributed SQL and observability. |
+| **Service Ticket System** | Personal Project | Solo | Frontend deployed on Vercel, Backend deployed on Render | TypeScript | Node.js, JWT, TiDB, React, Tailwind, Render, Vercel | Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
+| **To-Do list App** | Personal Project | Solo | Frontend is built using EAS, Backend deployed on Render | TypeScript | React Native, EAS, TiDB, Render | Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
+| **H100 Ecolodge** | Client Project | Team | Deployed on client's office | Java | Spring Boot, MySQL, Aiven, HTML, CSS, JavaScript, Spring Data JPA | Full-Stack Developer - Delivered a commercial booking engine under zero-cost infrastructure constraints as the client requested. |
+| **NHC Internal Gym** | Client Project | Team | Built as a Desktop Application | C# | .NET Windows Forms, SQL Server | Full-Stack Developer - Engineered a custom desktop management solution focusing on high-performance local data handling. |
+| **The Last Light** | School Project | Solo | Built using Unity, zip file ready | C# | Unity, Blender, VS Code | A Tutorial Based 3D Horror Game from User1 Productions, extended the game for additional Enemy, UI, Accessibility Features, Sound for a more exciting gameplay |
 
 ### Engineering
 My approach to engineering is centered on the following:
