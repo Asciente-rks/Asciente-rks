@@ -39,7 +39,8 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 
 | Project | Type | Collaboration | Status | Language | Tech Stack | Overview & Achievement |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **System Pulse** | Personal Project | Solo | Under Development | TypeScript | Fastify, AWS SDK, Serverless Framework, CloudFormation, DynamoDB, Lambda, SQS, SNS, S3, ReactJS, Vite, TailwindCSS | Developing an automation tester to check if the service is up by trigerring /health endpoints of the systems |
+| **Swiftrace** | Personal Project | Solo | Under Development | TypeScript | Serverless Framework, CloudFormation, S3, DynamoDB, Lambda, SQS, SNS, ReactJS, Vite, TailwindCSS | Developing an automation tester to check if the service is up by trigerring /health endpoints of the systems |
+| **System Pulse** | Personal Project | Solo | Frontend deployed on Vercel, Backend deployed on AWS Lambda | TypeScript | Fastify, DynamoDB, Lambda, SQS, SNS, S3, ReactJS, Vite, TailwindCSS | Developing an automation tester to check if the service is up by trigerring /health endpoints of the systems |
 | **Asciente Hub** | Personal Project | Solo | Frontend is built using Tauri and deployed on github realeases, Backend is deployed on AWS | TypeScript | AWS Lambda, Cloudflare R2, TiDB, ReactJS, TailwindCSS, Tauri | Architecting a cloud-native Game Launcher with distributed SQL and observability. |
 | **Service Ticket System** | Personal Project | Solo | Frontend deployed on Vercel, Backend deployed on Render | TypeScript | Node.js, JWT, TiDB, React, Tailwind, Render, Vercel | Built a secure, 24/7 live ticketing system featuring RBAC and enterprise-grade auth. |
 | **To-Do list App** | Personal Project | Solo | Frontend is built using EAS, Backend deployed on Render | TypeScript | React Native, EAS, TiDB, Render | Integrated a mobile-to-cloud task manager with automated CI/CD via Expo Services. |
