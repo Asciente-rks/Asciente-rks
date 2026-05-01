@@ -26,7 +26,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `JWT` • `Bcrypt` • `RBAC` • `Spring Security` • `OAuth`
 
 **Deployment & Ops**
-> `EAS` • `Render` • `Vercel` • `AWS`
+> `EAS` • `Render` • `Vercel` • `AWS` • `Ngrok`
 
 **QA & Architecture**
 > `ISO/IEC 25010` • `Postman` • `Manual Testing` • `C4 Model`
