@@ -17,7 +17,7 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `React` • `React Native (Expo)` • `Tailwind CSS` • `Astro`
 
 **AWS Ecosystem**
-> `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`  • `CloudFormation` • `Amplify`
+> `Lambda` • `DynamoDB` • `S3` • `SQS` • `SNS` • `CloudWatch`  • `CloudFormation` • `Amplify` • `API Gateway`
 
 **Database & Storage**
 > `TiDB (Serverless Relational DB)` • `DyanmoDB` • `Aiven` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
