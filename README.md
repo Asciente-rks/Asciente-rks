@@ -1,6 +1,6 @@
 # I’m Ralph Kenneth F. Sonio
 
-### Cloud-Native Backend Developer | Quality Assurance Tester
+### Cloud-Native Backend Engineer | Quality Assurance Tester
 I architect scalable, type-safe systems and enforce high-availability standards through rigorous Quality Assurance. My focus is on cloud-native infrastructure, event-driven architecture, and production-grade stability.
 
 ---
