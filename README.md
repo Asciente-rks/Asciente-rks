@@ -1,17 +1,17 @@
 # I’m Ralph Kenneth F. Sonio
 
-### Cloud-Native Backend Engineer | Quality Assurance Tester
-I architect scalable, type-safe systems and enforce high-availability standards through rigorous Quality Assurance. My focus is on cloud-native infrastructure, event-driven architecture, and production-grade stability.
+### Full-Stack Software Engineer | Quality Engineer
+I architect scalable, type-safe systems and enforce high-availability standards through rigorous Quality Assurance. My focus is on cloud-native infrastructure, event-driven architecture, and production-grade stability. I also automate my own testings using Jest, Supertest and Playwright
 
 ---
 
 ### Technical Expertise
 
 **Backend & Logic**
-> `Node.js` • `Express` • `Sequelize` • `ASP.NET Core` • `Spring Boot` • `Spring Data JPA` • `Tauri` • `Serverless Framework` • `Fastify`
+> `Node.js` • `Express` • `Sequelize` • `Tauri` • `Serverless Framework` • `Fastify`
 
 **Languages**
-> `TypeScript` • `JavaScript` • `C# (.NET)` • `Java` • `Python` • `Rust`
+> `TypeScript` • `JavaScript` • `Python` • `Rust`
 
 **Frontend & Mobile**
 > `React` • `React Native (Expo)` • `Tailwind CSS` • `Astro`
@@ -23,13 +23,13 @@ I architect scalable, type-safe systems and enforce high-availability standards 
 > `TiDB (Serverless Relational DB)` • `DyanmoDB` • `Aiven` • `MySQL` • `MongoDB` • `Cloudflare R2` • `S3`
 
 **Security & Auth**
-> `JWT` • `Bcrypt` • `RBAC` • `Spring Security` • `OAuth`
+> `JWT` • `Bcrypt` • `RBAC` • `OAuth`
 
 **Deployment & Ops**
 > `EAS` • `Render` • `Vercel` • `AWS` • `Ngrok` 
 
 **QA & Architecture**
-> `ISO/IEC 25010` • `Postman` • `Manual Testing` • `C4 Model`
+> `ISO/IEC 25010` • `Postman` • `Manual Testing` • `C4 Model` • `Jest` • `Supertest` • `Playwright`   
 
 **Tooling & IDEs**
 > `Figma` • `VS Code` • `Visual Studio` • `Cursor` • `Eclipse`
