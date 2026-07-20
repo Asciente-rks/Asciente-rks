@@ -1,6 +1,6 @@
 # I’m Ralph Kenneth F. Sonio
 
-### Full-Stack Software Engineer | Quality Engineer
+### Full-Stack Software Engineer | QA Engineer
 I architect scalable, type-safe systems and enforce high-availability standards through rigorous Quality Assurance. My focus is on cloud-native infrastructure, event-driven architecture, and production-grade stability. I also automate my own testings using Jest, Supertest and Playwright
 
 ---
